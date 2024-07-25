@@ -1,0 +1,19 @@
+ 13 #include <unistd.h>
+ 14 
+ 15 void    ft_ft(int *nbr)
+ 16 {
+ 17         char    x;
+ 18 
+ 19         *nbr =42;/*aqui tendriia que haccer el modulo del numero porue write solo escribe de uno en uno
+ 20         x = *nbr + '0';
+ 21         write(1, &x, 1);*/
+ 22 }
+ 23 /*esto es util para el cambio de variables
+ 24 int     main(void)
+ 25 {
+ 26         int     num;
+ 27         num = 35;
+ 28         ft_ft(&num);
+ 29         return(0);
+ 30 }
+

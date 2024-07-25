@@ -1,0 +1,6 @@
+void    ft_ultimate_ft(int *********nbr)
+{
+                *********nbr = 42;
+}
+/*tener en cuenta lo que me dijo ruben del cambi de variable
+
